@@ -215,7 +215,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 611165130.62767804,
-	"displayValue": "Chinese-Lantern-Festival",
+	"displayValue": "In-Class-Quiz",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_gray",
 	"iconImageWasSetByUser": 0
@@ -656,7 +656,7 @@
 	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
-	"esLintEnvironmentsMask": 1,
+	"esLintEnvironmentsMask": 8193,
 	"esLintRules": {
 		"accessor-pairs": {
 			"active": 0,
